@@ -68,24 +68,6 @@ This project is a Betfair trading platform that automates the process of monitor
 - **Environment Variables**: Configuration is managed through environment variables defined in the `.env` file.
 - **Airflow Configuration**: Airflow is configured to use a local SQLite database and runs with the LocalExecutor.
 
-## Contributing
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Make your changes**.
-4. **Commit your changes**:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-5. **Push to the branch**:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-6. **Open a pull request**.
-
 
 ## Acknowledgements
 
